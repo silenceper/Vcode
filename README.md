@@ -1,5 +1,6 @@
 Vcode
 =====
+
 <h5>Vcode.class.php 验证码生产类</h5>
 <hr/>
 <b>
