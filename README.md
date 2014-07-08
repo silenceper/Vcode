@@ -8,6 +8,7 @@ vsersion:2.0 <br/>
 author:silenceper<br/>
 email:silenceper#gmail.com(将#改为@)<br/>
 </b>
+
 <hr/>
 说明:
   支持中英文验证码生产类，使用方法：<br/>
