@@ -1,8 +1,5 @@
-Vcode
-=====
-
-###Vcode.class.php 验证码生产类
-<hr/>
+Vcode.class.php 验证码生产类
+====
 <b>
 vsersion:2.0    
 author:silenceper   
